@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    font-family: veranda, sans-serif;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-size: 3.125rem;
+}
+
+.link {
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.media {
+    display: flex;
+    justify-content: center;
+}
+
+.header2 {
+    color: white;
+    text-align: center;
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.description {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.camp {
+    display: flex;
+    justify-content: center;
+    clear: right;
+}
+
+.phone {
+    display: flex;
+    justify-content: center;
+    clear: left;
+}
+
+.copyright {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
